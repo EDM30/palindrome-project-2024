@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+    width: 100px;
+    margin: auto;
+}
+.container {
+    text-align: center;
+}
